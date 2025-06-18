@@ -1,6 +1,6 @@
-package org.example;
+package ru.shapoalov;
 
-public class Main {
+public class Learn1 {
     public static void main(String[] args) {
         System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
         System.out.println(isPalindrome("race a car"));
